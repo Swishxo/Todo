@@ -1,7 +1,5 @@
 import java.util.HashMap;
-import java.util.Map;
 import java.util.Scanner;
-import java.util.function.BiConsumer;
 
 public class Todo {
     static HashMap<Integer, String> todo = new HashMap<>();
